@@ -1,0 +1,15 @@
+{
+  "name": "cypher-formatter",
+  "version": "0.0.1",
+  "description": "Formatter for Cypher queries",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.7.0"
+  }
+}
